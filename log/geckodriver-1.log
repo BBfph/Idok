@@ -1,0 +1,22 @@
+1632754443005	geckodriver	INFO	Listening on 127.0.0.1:63041
+1632754446048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\bb\\AppData\\Local\\Temp\\rust_mozprofilesuszWr"
+1632754446516	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bb\\AppData\\Local\\Temp\\rust_mozprofilesuszWr\\search.json.mozlz4", (void 0)))
+1632754449978	Marionette	INFO	Listening on port 63049
+1632754450273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5224 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5408 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3671 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 5825 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 6352 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 3835 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 2788 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 7268 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 876 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/WOdvqX5MrEWan8NE-dDT01W_bgveDh48divqo2Vh5b0.js line 1 > eval line 4895 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1632754518122	Marionette	INFO	Stopped listening on port 63049
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390077,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+

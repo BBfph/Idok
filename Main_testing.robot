@@ -7,6 +7,7 @@ ${Browserr}     firefox
 Library     Selenium2Library
 Resource        ./Resources/Open_browser.robot
 Resource        ./Resources/Accept_cookies.robot
+Resource        ./Resources/Check_footer_content.robot
 
 # open browser start process
 Test Setup          Open_browser.Start browser and maximize     ${URL}      ${Browserr}
@@ -14,8 +15,9 @@ Test Teardown       Open_browser.Close browserr
 
 
 *** Test Cases ***
-Deselect all cookies
+# test case
+First Test Case
+#
     Accept_cookies.Deselect all cookies
-
-
-    
+#
+    Check_footer_content.Test header buttons
